@@ -77,8 +77,10 @@ Let’s get pgAdmin set up on your Linux system step by step, Fabio. Here's how:
    ```bash
    sudo /usr/pgadmin4/bin/setup-web.sh
    ```
-   During this setup, it will ask you to create a username and password. Make sure to remember them, as you’ll need them to log in.
+   During this setup, it will ask you to create a username and password. Make sure to remember them, as you’ll need them to log in. (Nietzsche in the office).
 
 ### Step 4: Access pgAdmin
 1. Open your web browser and navigate to `http://localhost/pgadmin4`.
 2. Log in with the credentials you set up during the configuration.
+
+3. http://127.0.0.1/pgadmin4
