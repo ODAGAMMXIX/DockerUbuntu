@@ -84,3 +84,21 @@ Let’s get pgAdmin set up on your Linux system step by step, Fabio. Here's how:
 2. Log in with the credentials you set up during the configuration.
 
 3. http://127.0.0.1/pgadmin4
+
+Register > Server.
+
+Preencha os campos:
+
+    Name: Escolha um nome para o servidor, como Meu PostgreSQL.
+
+    Vá para a aba Connection e preencha:
+
+        Host: localhost
+
+        Port: 5432
+
+        Maintenance Database: postgres
+
+        Username: postgres
+
+        Password: a senha que você definiu.
